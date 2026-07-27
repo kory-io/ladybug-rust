@@ -1,0 +1,3 @@
+[submodule "lbug-src"]
+	path = lbug-src
+	url = https://github.com/kory-io/ladybug.git

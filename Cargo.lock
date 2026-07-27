@@ -530,7 +530,7 @@ dependencies = [
 
 [[package]]
 name = "lbug"
-version = "0.18.0"
+version = "0.18.2"
 dependencies = [
  "anyhow",
  "arrow",
